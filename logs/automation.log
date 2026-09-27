@@ -1,0 +1,42 @@
+2026-09-27 12:33:04 INFO  TC001_AccountRegistrationTest:94 - Starting TC_001_AccountRegistrationTest
+2026-09-27 12:33:04 INFO  TC001_AccountRegistrationTest:101 - Clicked on My Account
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:104 - Clicked on Register
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:109 - Provided First Name
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:112 - Provided Last Name
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:115 - Provided Email
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:118 - Provided Telephone
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:121 - Provided Password
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:124 - Provided Confirmed Password
+2026-09-27 12:33:05 INFO  TC001_AccountRegistrationTest:127 - Set Privacy Policy
+2026-09-27 12:33:07 INFO  TC001_AccountRegistrationTest:130 - Clicked on Continue
+2026-09-27 12:33:09 INFO  TC001_AccountRegistrationTest:140 - Finished TC_001_AccountRegistrationTest
+2026-09-27 12:33:12 INFO  TC_002_LoginTest:18 - Starting TC_002_LoginTest
+2026-09-27 12:33:14 INFO  TC_002_LoginTest:47 -  Finished TC_002_LoginTest
+2026-09-27 13:01:55 INFO  TC001_AccountRegistrationTest:94 - Starting TC_001_AccountRegistrationTest
+2026-09-27 13:01:55 INFO  TC001_AccountRegistrationTest:101 - Clicked on My Account
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:104 - Clicked on Register
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:109 - Provided First Name
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:112 - Provided Last Name
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:115 - Provided Email
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:118 - Provided Telephone
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:121 - Provided Password
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:124 - Provided Confirmed Password
+2026-09-27 13:01:56 INFO  TC001_AccountRegistrationTest:127 - Set Privacy Policy
+2026-09-27 13:01:57 INFO  TC001_AccountRegistrationTest:130 - Clicked on Continue
+2026-09-27 13:02:00 INFO  TC001_AccountRegistrationTest:140 - Finished TC_001_AccountRegistrationTest
+2026-09-27 13:02:03 INFO  TC_002_LoginTest:18 - Starting TC_002_LoginTest
+2026-09-27 13:02:05 INFO  TC_002_LoginTest:47 -  Finished TC_002_LoginTest
+2026-09-27 13:15:05 INFO  TC001_AccountRegistrationTest:94 - Starting TC_001_AccountRegistrationTest
+2026-09-27 13:15:05 INFO  TC001_AccountRegistrationTest:101 - Clicked on My Account
+2026-09-27 13:15:06 INFO  TC001_AccountRegistrationTest:104 - Clicked on Register
+2026-09-27 13:15:06 INFO  TC001_AccountRegistrationTest:109 - Provided First Name
+2026-09-27 13:15:06 INFO  TC001_AccountRegistrationTest:112 - Provided Last Name
+2026-09-27 13:15:07 INFO  TC001_AccountRegistrationTest:115 - Provided Email
+2026-09-27 13:15:07 INFO  TC001_AccountRegistrationTest:118 - Provided Telephone
+2026-09-27 13:15:07 INFO  TC001_AccountRegistrationTest:121 - Provided Password
+2026-09-27 13:15:07 INFO  TC001_AccountRegistrationTest:124 - Provided Confirmed Password
+2026-09-27 13:15:07 INFO  TC001_AccountRegistrationTest:127 - Set Privacy Policy
+2026-09-27 13:15:10 INFO  TC001_AccountRegistrationTest:130 - Clicked on Continue
+2026-09-27 13:15:12 INFO  TC001_AccountRegistrationTest:140 - Finished TC_001_AccountRegistrationTest
+2026-09-27 13:15:16 INFO  TC_002_LoginTest:18 - Starting TC_002_LoginTest
+2026-09-27 13:15:20 INFO  TC_002_LoginTest:47 -  Finished TC_002_LoginTest
